@@ -18,7 +18,7 @@ import static android.support.test.espresso.action.ViewActions.*;
 
 @RunWith(AndroidJUnit4.class)
 @LargeTest
-public class CorrecaoTest {
+public class MainActivityTest {
     @Rule
     public ActivityTestRule<MainActivity> mActivityRule = new ActivityTestRule<>(
             MainActivity.class);
